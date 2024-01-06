@@ -1,0 +1,15 @@
+os
+json
+matplotlib
+time
+collections
+tkinter
+customtkinter
+opencv-python
+Pillow
+mysql-connector-python
+pyttsx3
+facerecognition
+numpy
+openpyxl
+bcrypt
