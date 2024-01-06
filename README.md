@@ -5,6 +5,10 @@ Aim:
 1.  To automate the manual work like Attendance Management
 2.  To automate the Inventory list
 3.  Keep track of all the equipment and events
+4.  Database of every past event
+5.  Roles of every member in database
+6.  Gallery of every picture and videos
+7.  To create a virtual assistant for a Organisation like CIIE
 
 Libraries Used:
 1.  Tkinter [import tkinter as tk]
@@ -27,6 +31,10 @@ Why the libraries:
 3.  OpenCV: To create a facial recognition login layer on top of username password authentication.
 4.  PIL: To edit the images for the background and other image handling.
 5.  Mysql.Connector: To connect the MySQL Server to the tkinter interface and request/fetch data from the SQL Server.
+6.  bcrypt: To encrypt and decrypt data for storage.
+7.  JSON: For data interchange and storage of big data like facial encodings.
+8.  pyttsx3: TTS service.
+9.  face_recognition: creates facial encodings and compare them using DLIB.
 
 
 Functionalities:
