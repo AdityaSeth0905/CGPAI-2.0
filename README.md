@@ -1,12 +1,12 @@
 # CGPAI-2.0
 CIIE General Purpose AI About CGPAI (Centre of Innovation, Incubation and Entrepreneurship General Purpose AI)
 
-Aim:
+#Aim:
   To automate the manual work like Attendance Management
   To automate the Inventory list
   Keep track of all the equipment and events
 
-Libraries Used:
+#Libraries Used:
   Tkinter [import tkinter as tk]
   Customtkinter [pip install customtkinter]
   OpenCV [pip install opencv-python]
@@ -19,7 +19,7 @@ Libraries Used:
   matplotlib
   time
 
-Why the libraries:
+#Why the libraries:
   Tkinter: To create a interface for the ai code.
   Custom Tkinter: a bootstrap version of tkinter library for modern UI.
   OpenCV: To create a facial recognition login layer on top of username password authentication.
@@ -27,7 +27,7 @@ Why the libraries:
   Mysql.Connector: To connect the MySQL Server to the tkinter interface and request/fetch data from the SQL Server.
   How Many Builds, AND Why? 5 Stable Buids each with increasing features.
 
-Functionalities:
+#Functionalities:
   TTS (Text to speech)
   Voice Recognition
   Face recognition
