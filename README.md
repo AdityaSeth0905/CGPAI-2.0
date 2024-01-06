@@ -19,6 +19,7 @@ Libraries Used:
 10.  json
 11.  matplotlib
 12.  time
+13.  pygame [pip install pygame]
 
 Why the libraries:
 1.  Tkinter: To create a interface for the ai code.
